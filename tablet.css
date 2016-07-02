@@ -1,0 +1,240 @@
+@media only screen and (max-width: 768px) {
+    #document {
+        min-width: 768px
+    }
+
+    #contents_wrap #kana_wrap .section_wrap .section_content .section_title {
+        display: table;
+        width: 100% !important;
+        text-align: center
+    }
+
+    #contents_wrap #kana_wrap .section_wrap .section_content .section_title span {
+        right: 0;
+        bottom: 0
+    }
+
+    #contents_wrap #kana_wrap .section_wrap .section_content .section_title.timer .label.minits {
+        height: 50px
+    }
+
+    #contents_wrap #kana_wrap .section_wrap .section_content .section_title.timer .label.label {
+        width: 30px
+    }
+
+    #contents_wrap #kana_wrap .section_wrap .section_content .section_title.timer .symbol.ml {
+        margin-left: -10px
+    }
+
+    #contents_wrap #kana_wrap .section_wrap .section_content .section_title.timer .symbol.bottom {
+        line-height: 122px
+    }
+
+    #contents_wrap #kana_wrap .section_wrap .bg {
+        min-width: 768px
+    }
+
+    #contents_wrap #kana_wrap .section_wrap .bg > * {
+        right: 0
+    }
+
+    #contents_wrap #kana_wrap .section_wrap#kana_concept .section_title .text_l {
+        margin-bottom: -30px
+    }
+
+    #contents_wrap #kana_wrap .section_wrap#kana_concept .bg .kana_list {
+        -webkit-transform: translateX(-250px) scale(0.65);
+        -moz-transform: translateX(-250px) scale(0.65);
+        -ms-transform: translateX(-250px) scale(0.65);
+        -o-transform: translateX(-250px) scale(0.65);
+        transform: translateX(-250px) scale(0.65)
+    }
+
+    #contents_wrap #last_section .section_wrap .section_content .section_title {
+        line-height: 95px
+    }
+
+    #contents_wrap #last_section .section_wrap .section_content .section_title > * {
+        right: 0
+    }
+
+    #contents_wrap .rolling_btn_wrap.show .rolling_btn_inner {
+        top: 180px
+    }
+
+    #contents_wrap #product_wrap .section_wrap#pro_concept .section_content {
+        width: 485px;
+        height: 414px
+    }
+
+    #contents_wrap #product_wrap .section_wrap#pro_concept .section_content .section_content_inner {
+        padding-left: 45px;
+        padding-right: 45px
+    }
+
+    #contents_wrap #product_wrap .section_wrap#pro_concept .section_content .section_content_inner .copy {
+        padding-top: 100px
+    }
+
+    #contents_wrap #product_wrap .section_wrap#pro_product .photo_slide li {
+        transform: scale(1);
+        -moz-transform: scale(1);
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1)
+    }
+
+    #contents_wrap #product_wrap .section_wrap#pro_shape .modal_wrap .modal_content {
+        width: 670px;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    #contents_wrap #product_wrap .section_wrap#pro_shape .modal_wrap .modal_content .shape_list li {
+        width: 328px
+    }
+
+    #contents_wrap #rolling_kana_wrap {
+        position: absolute;
+        z-index: 500
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling {
+        margin-left: -505px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num1 {
+        margin-left: -605px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num2 {
+        margin-left: -640px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num3 {
+        margin-left: -625px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num4 {
+        margin-left: -610px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num5 {
+        margin-left: -595px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num6 {
+        margin-left: -580px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num7 {
+        margin-left: -565px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num8 {
+        margin-left: -550px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num9 {
+        margin-left: -535px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num10 {
+        margin-left: -520px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num11 {
+        margin-left: -505px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num12 {
+        margin-left: -490px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num13 {
+        margin-left: -475px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num14 {
+        margin-left: -460px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num15 {
+        margin-left: -445px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num16 {
+        margin-left: -430px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num17 {
+        margin-left: -415px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num18 {
+        margin-left: -400px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num19 {
+        margin-left: -385px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num20 {
+        margin-left: -370px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num21 {
+        margin-left: -355px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num22 {
+        margin-left: -340px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num23 {
+        margin-left: -325px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num24 {
+        margin-left: -310px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num25 {
+        margin-left: -295px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num26 {
+        margin-left: -280px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num27 {
+        margin-left: -265px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num28 {
+        margin-left: -250px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num29 {
+        margin-left: -235px
+    }
+
+    #contents_wrap #rolling_kana_wrap .rolling.num30 {
+        margin-left: -220px
+    }
+
+    #contents_wrap #rolling_kana_wrap .wakeup {
+        margin-left: -505px
+    }
+
+    #contents_wrap #rolling_kana_wrap .wakeup span img {
+        position: fixed;
+        bottom: 0
+    }
+
+    .type_product #last_section .section_wrap.last {
+        background: url("../img/colon/bg08.png") no-repeat center 38%;
+        background-size: contain
+    }
+}
+
+
